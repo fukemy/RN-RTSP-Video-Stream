@@ -1,5 +1,5 @@
 # RN-RTSP-Video-Stream
-Video Stream Using Protocol RTSP in React Native
+React Native Video Stream Implementation Using Protocol RTSP
 
 ### Screenshoot
 
