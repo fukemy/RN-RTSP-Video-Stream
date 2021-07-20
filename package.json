@@ -14,7 +14,7 @@
     "@react-navigation/native": "^5.7.0",
     "accordion-collapse-react-native": "^0.3.1",
     "react": "16.13.1",
-    "react-native": "0.63.0",
+    "react-native": "0.64.1",
     "react-native-fast-image": "^8.3.0",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-live-stream": "^1.0.1",
